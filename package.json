@@ -1,0 +1,12 @@
+{
+  "name": "gist-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "web-server": "cd src; python -m SimpleHTTPServer $PORT || 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
