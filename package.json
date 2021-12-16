@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "web-server": "cd src; python -m SimpleHTTPServer $PORT || 8000"
+    "mac:web-server": "python -m SimpleHTTPServer $PORT || 8000"
   },
   "keywords": [],
   "author": "",
